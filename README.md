@@ -3,3 +3,5 @@
 [![Cargo](https://img.shields.io/badge/Cargo-Build-blue)](https://doc.rust-lang.org/cargo/)
 
 Conway's Game of Life implemented in rust.
+
+![Preview](./demo.gif)
